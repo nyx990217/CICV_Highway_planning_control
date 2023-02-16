@@ -1,0 +1,4 @@
+Name,DisplayName,Type,Default,Group,Tips
+Throttle,Throttle,double,0.8,,
+Brake,Brake,double,5,,
+Steer,Steer,double,180,,
